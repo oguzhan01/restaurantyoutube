@@ -7,7 +7,7 @@ Full Responsive Örnek Bir İşletme Web Tasarımı
 
 HTML, CSS ve JS kullanılarak dinamik yapı oluştuldu.
 
-<h3>Ekran Görüntüsü</h3>
+<h3>WebScreen</h3>
 
 ![](SecreenWeb.gif)
 
