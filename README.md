@@ -1,9 +1,13 @@
-<h1>Full Responsive Web Sayfası Tasarımı</h1>
+<h1>Restaurant Web Sayfsı</h1>
 
-Bu çalışma henüz tasarım aşamasındadır.
+Full Responsive Örnek Bir İşletme Web Tasarımı 
 
-<h2>Kullanılan Yazılım Dilleri</h2>
 
-HTML, CSS kullanılarak tasarlanmaktadır
+<h2>Projede Kullanılan Yazılım Dilleri</h2>
 
-![](Secreen.gif)
+HTML, CSS ve JS kullanılarak dinamik yapı oluştuldu.
+
+<h3>Ekran Görüntüsü</h3>
+
+![](SecreenWeb.gif)
+
