@@ -9,5 +9,5 @@ HTML, CSS ve JS kullanılarak dinamik yapı oluştuldu.
 
 <h3>WebScreen</h3>
 
-![](SecreenWeb.gif)
+![](ScreenWeb.gif)
 
