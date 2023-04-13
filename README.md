@@ -1,6 +1,6 @@
 <h1>Restaurant Web Sayfsı</h1>
 
-Full Responsive Örnek Bir İşletme Web Tasarımı 
+Full Responsive Örnek Bir İşletme Web Sayfası Tasarımı 
 
 
 <h2>Projede Kullanılan Yazılım Dilleri</h2>
